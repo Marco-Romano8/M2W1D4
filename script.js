@@ -83,7 +83,7 @@ REGOLE
     let name2 = "John"
     let diverso = name1 !== name2
     console.log(diverso)
-
-    let minuscolo = name2.toLowerCase()
-    console.log(name1 === minuscolo)
+    let minuscolo1 = name1.toLowerCase()
+    let minuscolo2 = name2.toLowerCase()
+    console.log(minuscolo1 === minuscolo2)
 */
